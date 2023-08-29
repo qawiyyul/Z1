@@ -1,0 +1,10 @@
+/home/qawiy/Documents/z1_sdk-master/build/CMakeFiles/edit_cache.dir
+/home/qawiy/Documents/z1_sdk-master/build/CMakeFiles/unitree_arm_interface.dir
+/home/qawiy/Documents/z1_sdk-master/build/CMakeFiles/rebuild_cache.dir
+/home/qawiy/Documents/z1_sdk-master/build/CMakeFiles/highcmd_development.dir
+/home/qawiy/Documents/z1_sdk-master/build/CMakeFiles/lowcmd_multirobots.dir
+/home/qawiy/Documents/z1_sdk-master/build/CMakeFiles/lowcmd_development.dir
+/home/qawiy/Documents/z1_sdk-master/build/CMakeFiles/highcmd_basic_two.dir
+/home/qawiy/Documents/z1_sdk-master/build/CMakeFiles/highcmd_basic.dir
+/home/qawiy/Documents/z1_sdk-master/build/pybind11/CMakeFiles/rebuild_cache.dir
+/home/qawiy/Documents/z1_sdk-master/build/pybind11/CMakeFiles/edit_cache.dir

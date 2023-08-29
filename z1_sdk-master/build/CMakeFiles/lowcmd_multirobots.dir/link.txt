@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -pthread  -rdynamic CMakeFiles/lowcmd_multirobots.dir/examples/lowcmd_multirobots.cpp.o  -o lowcmd_multirobots   -L/home/qawiy/Documents/z1_sdk-master/lib  -Wl,-rpath,/home/qawiy/Documents/z1_sdk-master/lib -lZ1_SDK_Linux64 
